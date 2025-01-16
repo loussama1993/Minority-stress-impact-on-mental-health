@@ -1,4 +1,5 @@
 LGBTQ+ Mental Health Data Analysis
+
 Overview
 This repository contains the statistical analysis code used to examine the relationship between daily heterosexist experiences and mental health outcomes in LGBTQ+ populations. The analysis includes regression modeling, mediation analysis, and comprehensive statistical testing.
 
