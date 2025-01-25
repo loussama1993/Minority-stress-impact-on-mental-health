@@ -15,16 +15,23 @@ Reliability assessment of DHEQ subscales
 Statistical Analysis
 
 Descriptive statistics
+
 Bivariate analysis (Wilcoxon Rank-Sum Tests, Kruskal-Wallis Tests)
+
 Multiple linear regression
+
 Structural equation modeling (SEM) for mediation analysis
+
 Power analysis using Monte Carlo simulations
 
 Key Technical Features
 
 Implementation of bootstrapping (5000 resamples)
+
 Robust standard error calculations
+
 Mediation pathway analysis
+
 Model comparison and coefficient stability testing
 
 
